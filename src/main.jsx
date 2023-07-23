@@ -10,6 +10,7 @@ import Register from './Pages/Login/Register.jsx'
 import Error from './Pages/ErrorPage/Error.jsx'
 import Colleges from './Pages/Colleges/Colleges'
 import Admission from './Pages/Admission/Admission'
+import AuthProvider from './AuthProvider/AuthProvider'
 
 const router = createBrowserRouter([
   {
@@ -45,6 +46,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router}></RouterProvider>
+    <AuthProvider>
+      <RouterProvider router={router}></RouterProvider>
+    </AuthProvider>
   </React.StrictMode>,
 )
