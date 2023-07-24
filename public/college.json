@@ -1,0 +1,70 @@
+[
+      {
+        "id": 1,
+        "collegeName": "Harvard University",
+        "image": "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "admissionDates": "September 1 - October 15",
+        "events": ["Orientation Week", "Job Fair", "Homecoming"],
+        "researchHistory": "Harvard University is renowned for its extensive research contributions and pioneering discoveries across various disciplines.",
+        "sports": ["Football", "Basketball", "Soccer", "Swimming", "Rowing"],
+        "collegeDetails": "Harvard University is one of the oldest and most prestigious Ivy League institutions, dedicated to academic excellence and innovation.",
+        "admissionProcess": "Prospective students must complete the Common Application and submit supplemental materials as required by the individual schools."
+      },
+      {
+        "id": 2,
+        "collegeName": "Stanford University",
+        "image": "https://images.pexels.com/photos/207684/pexels-photo-207684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "admissionDates": "October 1 - November 30",
+        "events": ["New Student Orientation", "Research Symposium", "Family Weekend"],
+        "researchHistory": "Stanford University has a long history of groundbreaking research and technological advancements, making it a leading research institution.",
+        "sports": ["Soccer", "Tennis", "Swimming", "Volleyball", "Golf"],
+        "collegeDetails": "Stanford University is known for its cutting-edge research, entrepreneurial spirit, and commitment to fostering a diverse community.",
+        "admissionProcess": "Prospective students must apply through the Coalition Application or Common Application and complete the Stanford Supplemental Application."
+      },
+      {
+        "id": 3,
+        "collegeName": "Massachusetts Institute of Technology",
+        "image": "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "admissionDates": "December 1 - January 15",
+        "events": ["Campus Preview Weekend", "Hackathon", "MIT Tech Conference"],
+        "researchHistory": "MIT is a world-renowned research institution known for its contributions to science, engineering, and technology.",
+        "sports": ["Basketball", "Fencing", "Track and Field", "Water Polo", "Ice Hockey"],
+        "collegeDetails": "MIT is committed to tackling global challenges through education, research, and innovation.",
+        "admissionProcess": "Applicants must apply through the MIT Application portal and submit the required documents."
+      },
+      {
+        "id": 4,
+        "collegeName": "University of Cambridge",
+        "image": "https://images.pexels.com/photos/207684/pexels-photo-207684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "admissionDates": "October 15 - January 15",
+        "events": ["Freshers' Week", "May Ball", "Science Festival"],
+        "researchHistory": "University of Cambridge has a long history of academic excellence and has produced numerous Nobel laureates and world-renowned scholars.",
+        "sports": ["Rowing", "Cricket", "Rugby", "Tennis", "Squash"],
+        "collegeDetails": "University of Cambridge is one of the world's oldest and most prestigious universities, offering a wide range of academic programs.",
+        "admissionProcess": "Prospective students must apply through UCAS and submit additional documents and test scores as required."
+      },
+      {
+        "id": 5,
+        "collegeName": "California Institute of Technology (Caltech)",
+        "image": "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "admissionDates": "November 1 - December 31",
+        "events": ["Explore Caltech", "TechFest", "Parents' Weekend"],
+        "researchHistory": "Caltech is a leading research institution known for its contributions to science, engineering, and space exploration.",
+        "sports": ["Soccer", "Swimming", "Volleyball", "Track and Field", "Water Polo"],
+        "collegeDetails": "Caltech is dedicated to advancing scientific knowledge and fostering innovation.",
+        "admissionProcess": "Applicants must apply through the Common Application or Coalition Application and complete Caltech's supplemental essays."
+      },
+      {
+        "id": 6,
+        "collegeName": "University of Oxford",
+        "image": "https://images.pexels.com/photos/207684/pexels-photo-207684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "admissionDates": "September 15 - January 15",
+        "events": ["Freshers' Fair", "Oxford Literary Festival", "Science Bazaar"],
+        "researchHistory": "University of Oxford has a long history of academic excellence and has educated numerous world leaders and scholars.",
+        "sports": ["Rowing", "Football", "Cricket", "Tennis", "Rugby"],
+        "collegeDetails": "University of Oxford is one of the oldest and most prestigious universities in the world, offering a diverse range of academic programs.",
+        "admissionProcess": "Prospective students must apply through UCAS and may be required to submit additional written work or attend interviews."
+      }
+
+]
+  

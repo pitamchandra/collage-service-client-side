@@ -11,6 +11,7 @@ import Error from './Pages/ErrorPage/Error.jsx'
 import Colleges from './Pages/Colleges/Colleges'
 import Admission from './Pages/Admission/Admission'
 import AuthProvider from './AuthProvider/AuthProvider'
+import CollageDetails from './components/CollageDetails'
 
 const router = createBrowserRouter([
   {
@@ -38,6 +39,11 @@ const router = createBrowserRouter([
         path: '/admission',
         element: <Admission></Admission>
       },
+      {
+        path: '/collegeDetails/:id',
+        element: <CollageDetails></CollageDetails>,
+        loader: ({params}) => fetch(`college.json/${params.id}`)
+      }
 
     ]
 

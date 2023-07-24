@@ -3,6 +3,7 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../../AuthProvider/AuthProvider";
 
 import { updateProfile } from "firebase/auth";
+import GoogleLogin from "../Shared/SocialLogin/GoogleLogin";
 
 
 
@@ -151,7 +152,7 @@ const Register = () => {
                 <input type="submit" value="Register" className="btn bg-rose-500 text-white px-6 py-2 hover:bg-sky-900 mb-4" />
                 <p>Already have an account? <Link to='/login' className="text-rose-500">Login</Link></p>
             </form>
-            
+            <GoogleLogin></GoogleLogin>
         </div>
     );
 };
